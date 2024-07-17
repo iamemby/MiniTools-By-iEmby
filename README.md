@@ -1,7 +1,7 @@
-VEGAS Pro Scripts by iEmby (Mohit Bhagat)
+MiniTools-By-iEmby (Mohit Bhagat)
 
 Overview
-VegasProScripts is a collection of scripts for VEGAS Pro designed to enhance its workflow and make your tasks easier & faster than before.
+MiniTools-By-iEmby is a collection of buttons which can enhance your workflow and make your tasks easier & faster than before.
 
 ************************************************************************************
 
@@ -14,7 +14,7 @@ BATCH RENDERING (Revised Version of Original)
 ************************************************************************************
 
 License
-This project is licensed under the VegasProScriptsByiEmby License. See the LICENSE file for details.
+This project is licensed under the MiniTools-By-iEmby License. See the LICENSE file for details.
 
 ************************************************************************************
 
@@ -28,7 +28,7 @@ Edward Troxel (JetDV) http://www.jetdv.com
 
 ************************************************************************************
 
-VEGAS Pro Scripts by iEmby License
+MiniTools-By-iEmby License
 Permission is hereby granted, free of charge, to any person obtaining a copy of these scripts to use, copy, modify, and distribute them, provided that:
 
 The scripts are not used for commercial purposes.
