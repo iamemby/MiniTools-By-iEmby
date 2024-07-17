@@ -1,53 +1,50 @@
-MiniTools-By-iEmby (Mohit Bhagat)
+MINITOOLS is a collection of small usefull scripts in one toolbox, contains mostly all needed regularly tasks.
 
-Overview
-MiniTools-By-iEmby is a collection of buttons which can enhance your workflow and make your tasks easier & faster than before.
+ ------- ONE CLICK BUTTONS -------
 
-************************************************************************************
+- Close Gaps:               Close gaps between events.
+- Add Gaps:                 Add gaps between events.
+- Text At Markers:          Add text at markers in the timeline.
+- Trim Head / Tails:        Trim the beginning and end of events.
+- Repeat Events:            Repeat selected events.
+- Shuffle Images:           Randomly shuffle image events.
+- Reset Pan / Crop:         Reset the pan and crop settings of events.
+- Match Output Aspects:     Match the aspect ratio of output.
+- Match Event Length:       Match the length of events.
+- Copy Events At Markers:   Copy events at marker points.
+- Delete Muted Tracks:      Remove tracks that are muted.
+- Delete Empty Tracks:      Remove tracks that are empty.
+- Group Video / Audio:      Group video and audio events.
+- Detect Blank Spaces:      Identify blank spaces in the timeline.
+- Set Last OFX Key:         Move last keyframe for an OFX effect to the last frame of event (usable when you will extend length of an event when it has OFX keyframes).
+- Resize Media Generator:   Resize the media generator.
+- Freeze Last Frame:        Freeze the last frame of an event.
+- Set Last PAN Key:         Move last keyframe for PAN & CROP to the last frame of event (usable when you will extend length of an event when it has PAN & CROP keyframes).
+- Find Offline Events:      Locate events that are offline.
+- Detect Loop Events:       Identify events which are extended more than its length and set to loop accidently.
+- Snapshot At Markers:      Take snapshots at marker points.
+- Split At Markers:         Split events at marker points.
+- Split At Regions:         Split events at region points.
+- Mostly Used Files:        Collect for fast import, your mostly used files, which you uses in your projects often of any type like images, videos, audios or veg files.
+- Project Information:      Display information about the project.
+- Open All Nests:           Open all nested timelines.
+- Collect Project Media:    Collect all media used in the project.
+- Import Preferences:       Import user preferences.
+- Export Preferences:       Export user preferences.
+- Select / Deselect:        Select or deselect events.
 
-Scripts Included:
+ ------- GROUP OF BUTTONS -------
 
-MINITOOLS (Version-1)
-QUICK RENDER (Version-1.5)
-BATCH RENDERING (Revised Version of Original)
+Events Selection:           It contains sub buttons with task related to event selection.
+Manage Transitions:         It contains sub buttons with task related to transitions.
+Manage Effects:             It contains sub buttons with task related to managing effects.
+Organize Events:            It contains sub buttons with task related to organizing events.
+Project Templates:          It contains sub buttons with task related to project templated.
+Delete Events:              It contains sub buttons with task related to deleting events.
+Experimental Tools:         It contains sub buttons with some special concept tasks.
+Markers / Regions:          It contains sub buttons with task related to managing markers and regions.
+Length / Playback:          It contains sub buttons with task related to managing length & playback of events.
+ 
 
-************************************************************************************
-
-License
-This project is licensed under the MiniTools-By-iEmby License. See the LICENSE file for details.
-
-************************************************************************************
-
-Support
-For support or inquiries, please contact vegasmediaworks@gmail.com.
-
-************************************************************************************
-
-Acknowledgements
-Edward Troxel (JetDV) http://www.jetdv.com 
-
-************************************************************************************
-
-MiniTools-By-iEmby License
-Permission is hereby granted, free of charge, to any person obtaining a copy of these scripts to use, copy, modify, and distribute them, provided that:
-
-The scripts are not used for commercial purposes.
-Any modifications made to the scripts must be released under the same license terms.
-Attribution to Mohit Bhagat (iEmby) is included with any distribution or use of the scripts.
-
-THE SCRIPTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
-AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, 
-OUT OF, OR IN CONNECTION WITH THE SCRIPTS OR THE USE OR OTHER DEALINGS IN THE SCRIPTS.
-
-************************************************************************************
-
-How to Use:
-Download: Clone this repository or download the ZIP file.
-
-************************************************************************************
-
-Installation
-To use these scripts in VEGAS Pro:
-Copy Downloaded Files and Paste in VEGAS Scripts Menu Folder at your My Documents.
+Special Thanks to Edward Troxel (JetDV) for guide me in some complex codes
+and sharing some of his two complex codes completely.
